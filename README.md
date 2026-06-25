@@ -110,3 +110,7 @@ DIVIDE([SocialIsolationTeens], [TotalTeens], 0)
 ### 5. Platform & Demographic Divergence
 * **Platform Risk Variance:** The data highlights stark behavioral differences depending on the platform medium. Highly immersive, algorithm-driven video platforms show a significantly higher probability of pushing teenagers into emotional risk zones compared to more passive, curation-oriented networks.
 * **Age-Group Intensification:** Vulnerability factors do not remain static across adolescence; metrics indicate that emotional distress and exposure risks intensify noticeably by up to 15% in older teens (16–18 years old) compared to early-stage adolescents (13–15 years old).
+
+## Dashboard in Power BI
+
+![Dashboard Preview](Social_Media_Teen.png)
