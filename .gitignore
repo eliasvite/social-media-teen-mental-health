@@ -1,0 +1,5 @@
+# Ignore data directory containing heavy datasets
+data/
+
+#Ignore files
+*.csv
